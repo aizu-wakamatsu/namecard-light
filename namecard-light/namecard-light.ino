@@ -8,7 +8,7 @@
 const int PIN = 27;
 const int NUMPIXELS = 5;
 const char* SSID_WL = "meishi";
-const char* PASS_WL = "zlibiglt";
+const char* PASS_WL = "namecard";
 
 WebServer server(80);
 const char* serverName = "meishi";
